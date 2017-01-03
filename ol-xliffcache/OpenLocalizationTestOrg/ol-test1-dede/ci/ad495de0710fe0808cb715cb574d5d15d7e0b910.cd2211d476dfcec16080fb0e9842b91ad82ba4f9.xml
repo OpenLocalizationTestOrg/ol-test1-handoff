@@ -1,1 +1,0 @@
-{"nodes":[{"pos":[33,69],"content":"9b413f33-bc5e-4448-9ca0-c08c8f7a4199","needQuote":false,"needEscape":true,"nodes":[{"content":"9b413f33-bc5e-4448-9ca0-c08c8f7a4199","pos":[0,36]}]}],"content":"---\r\n- uid: test.value\r\n  name: '9b413f33-bc5e-4448-9ca0-c08c8f7a4199'\r\n...\r\n"}
