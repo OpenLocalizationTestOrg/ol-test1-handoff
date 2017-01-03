@@ -3,12 +3,12 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-de">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-787e512" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">56d1a219b39fcc4704a3c382d6547fc8e21970d5</xliffext:olfilehash>
-      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\79e7ad8f-45e1-445a-94e1-ff455b360b30.md</xliffext:olfilepath>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">baebf8bfe150a68db43ce64ecad3dd09586aec94</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e2e\b4fb0e24-e69d-4879-b0dd-aa8ec7a403b6.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ht</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">17ee35ceeb92b0947d7294339089f5efb750b286</xliffext:olskeletonhash>
-      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2f82ddb86e4593973e0ac02aecaa68e5e4e76020</xliffext:olxliffhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b0f834f5d4e377910314e1905f5924408b94047f</xliffext:olskeletonhash>
+      <xliffext:olxliffhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d18894bc5a2d3564f111a3def524ef42aaba866b</xliffext:olxliffhash>
     </header>
     <body>
       <group id="content" extype="content">
@@ -16,7 +16,7 @@
           <source>OpenLocalization Workflow Test MarkDown</source>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>3d033db6-d9fd-4462-966d-15630f0687b2 thanks!</source>
+          <source>18a9e39c-6dd0-4388-b338-011b7e4fb717 thanks!</source>
         </trans-unit>
       </group>
     </body>
