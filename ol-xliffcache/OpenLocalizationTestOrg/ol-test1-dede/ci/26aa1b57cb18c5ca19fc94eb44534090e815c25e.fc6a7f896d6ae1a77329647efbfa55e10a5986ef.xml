@@ -1,0 +1,1 @@
+{"nodes":[{"pos":[33,69],"content":"f16e55ce-38bb-4100-ae69-a48d0ba53005","needQuote":false,"needEscape":true,"nodes":[{"content":"f16e55ce-38bb-4100-ae69-a48d0ba53005","pos":[0,36]}]}],"content":"---\r\n- uid: test.value\r\n  name: 'f16e55ce-38bb-4100-ae69-a48d0ba53005'\r\n...\r\n"}
